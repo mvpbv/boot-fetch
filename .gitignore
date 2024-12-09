@@ -9,3 +9,4 @@ boot-fetch
 websrc/
 static/
 duels.txt
+graph_generator.py
