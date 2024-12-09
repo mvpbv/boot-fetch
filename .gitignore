@@ -10,3 +10,4 @@ websrc/
 static/
 duels.txt
 graph_generator.py
+.DS_Store
