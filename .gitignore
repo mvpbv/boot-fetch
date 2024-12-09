@@ -1,0 +1,11 @@
+archives/
+logs/
+templates/
+websrc/
+degen_plot.svg
+gnuplot.ipynb  
+.env
+boot-fetch
+websrc/
+static/
+duels.txt
